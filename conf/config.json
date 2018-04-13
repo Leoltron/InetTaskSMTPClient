@@ -1,0 +1,7 @@
+{
+    "to": [
+        "someone.else@example.com"
+    ],
+    "Subject": "Great news",
+    "Attachments": ["main.py"]
+}
